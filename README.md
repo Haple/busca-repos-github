@@ -1,4 +1,4 @@
-# Aprendendo ES6
+# Conceitos aprendidos
 - Node e Yarn
 - Babel
 - Classes
